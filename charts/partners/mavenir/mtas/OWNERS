@@ -1,7 +1,7 @@
 chart:
   name: mtas
   shortDescription: mtas helm report
-providerDelivery: true
+providerDelivery: false
 publicPgpKey: unknown
 users:
 - githubUsername: rameshmav
